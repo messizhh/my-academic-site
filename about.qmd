@@ -1,5 +1,32 @@
 ---
-title: "About"
+title: "关于我 (About Me)"
+image: "profile.jpg" # 头像文件，请确保你放了一张照片到根目录
+about:
+  template: jolla
+  links:
+    - icon: envelope-fill
+      text: Email
+      href: "mailto:2311640319@tiangong.edu.cn"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "#" # 记得将来替换成你的 Google Scholar 链接
+    - icon: github
+      text: GitHub
+      href: "https://github.com/messizhh"
+    - icon: file-person-fill
+      text: 个人简历 (CV)
+      href: "/files/my_cv.pdf" # CV 文件，请确保你创建了 files 文件夹并放入了 pdf
 ---
 
-About this site
+## gh zuo
+
+你好！我是左同学 (gh zuo)，天津工业大学的一名本科生。
+
+我的研究兴趣包括计算机视觉、深度学习和机器学习。
+
+目前，我重点关注的研究方向是**连续手语识别 (Continuous Sign Language Recognition)** 和**连续手语翻译 (Continuous Sign Language Translation)**。
+
+### 教育背景
+
+* **学士学位 (本科在读)**
+    * 天津工业大学, 20XX - 至今

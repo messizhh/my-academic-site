@@ -1,7 +1,17 @@
 ---
-title: "my-academic-site"
+title: "欢迎 (Welcome)"
 ---
 
-This is a Quarto website.
+### 你好！我是 gh zuo
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+欢迎来到我的个人学术主页。
+
+我目前是**天津工业大学**的本科生，我的研究兴趣是**计算机视觉**和**深度学习**，特别是它们在**连续手语识别与翻译**中的应用。
+
+---
+
+### 最新动态 (News)
+
+* **[2025年10月]** 占位符：我们的论文 "论文标题" 被 [会议/期刊] 接收！ (将来你可以在这里添加)
+
+* **[2025年8月]** 占位符：我将在 [某个会议] 上展示我们的最新研究。

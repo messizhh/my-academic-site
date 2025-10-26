@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-academic-site",
+    "title": "欢迎 (Welcome)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "你好！我是 gh zuo\n欢迎来到我的个人学术主页。\n我目前是天津工业大学的本科生，我的研究兴趣是计算机视觉和深度学习，特别是它们在连续手语识别与翻译中的应用。\n\n\n\n最新动态 (News)\n\n[2025年10月] 占位符：我们的论文 “论文标题” 被 [会议/期刊] 接收！ (将来你可以在这里添加)\n[2025年8月] 占位符：我将在 [某个会议] 上展示我们的最新研究。"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "关于我 (About Me)",
     "section": "",
-    "text": "About this site"
+    "text": "你好！我是左同学 (gh zuo)，天津工业大学的一名本科生。\n我的研究兴趣包括计算机视觉、深度学习和机器学习。\n目前，我重点关注的研究方向是连续手语识别 (Continuous Sign Language Recognition) 和连续手语翻译 (Continuous Sign Language Translation)。\n\n\n\n学士学位 (本科在读)\n\n天津工业大学, 20XX - 至今"
+  },
+  {
+    "objectID": "about.html#gh-zuo",
+    "href": "about.html#gh-zuo",
+    "title": "关于我 (About Me)",
+    "section": "",
+    "text": "你好！我是左同学 (gh zuo)，天津工业大学的一名本科生。\n我的研究兴趣包括计算机视觉、深度学习和机器学习。\n目前，我重点关注的研究方向是连续手语识别 (Continuous Sign Language Recognition) 和连续手语翻译 (Continuous Sign Language Translation)。\n\n\n\n学士学位 (本科在读)\n\n天津工业大学, 20XX - 至今"
   }
 ]

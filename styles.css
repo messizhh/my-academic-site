@@ -1,1 +1,41 @@
-/* css styles */
+/* === 全局设计 === */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+/* === 链接颜色 === */
+/* 专业、沉稳的蓝色 */
+a {
+  color: #005f73;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+/* 链接悬停效果 */
+a:hover {
+  color: #003440;
+  text-decoration: underline;
+}
+
+/* === 标题颜色 === */
+h1, h2, h3, h4, h5, h6 {
+  color: #005f73;
+}
+
+/* === About 页面的头像美化 === */
+/* 使用 .about-image 类选择器来专门美化 about 页的头像 */
+.about-image {
+  border-radius: 12px; /* 圆角 */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* 柔和的阴影 */
+  transition: transform 0.3s ease;
+}
+
+.about-image:hover {
+  transform: scale(1.03); /* 鼠标悬停时轻微放大 */
+}
+
+/* === 导航栏微调 === */
+.navbar {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
