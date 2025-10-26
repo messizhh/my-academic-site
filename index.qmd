@@ -10,7 +10,7 @@ page-layout: full
 <div class="logo-section">
 <img src="profile.jpg" alt="头像" class="profile-img"/>
 <div class="name-section">
-<span class="name-main">gh zuo</span>
+<span class="name-main"> zuo </span><br>
 <span class="name-subtitle">天津工业大学</span>
 </div>
 </div>
@@ -37,7 +37,7 @@ page-layout: full
 <div class="time-display" id="live-time">--:--:--</div>
 </div>
 <div class="weather-section">
-<i class="bi bi-geo-alt-fill"></i> 天津市 (占位符)
+<i class="bi bi-geo-alt-fill"></i> 天津市 (津南区)
 </div>
 </div>
 <div class="card glass-card links-card">
@@ -53,7 +53,7 @@ page-layout: full
 </a>
 <a href="/about.qmd" class="link-item glass-card-hover">
 <i class="bi bi-person-fill"></i> 关于我
-</a>
+</a><br>
 <a href="https://blog.imsyy.top/" target="_blank" class="link-item glass-card-hover">
 <i class="bi bi-journal-richtext"></i> 博客 (示例)
 </a>
