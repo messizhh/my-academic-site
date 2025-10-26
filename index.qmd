@@ -5,74 +5,66 @@ page-layout: full
 
 ````{=html}
 <div class="grid custom-layout">
-
-  <div class="g-col-12 g-col-md-5 left-column">
-    
-    <div class="card glass-card message-card">
-      <div class="logo-section">
-        <img src="profile.jpg" alt="头像" class="profile-img"/>
-        <div class="name-section">
-          <span class="name-main">gh zuo</span>
-          <span class="name-subtitle">天津工业大学</span>
-        </div>
-      </div>
-      <div class="description-section">
-        <p>研究方向：计算机视觉、深度学习、机器学习</p>
-        <p>目前重点：连续手语识别与翻译</p>
-      </div>
-      <div class="social-links">
-        <a href="mailto:2311640319@tiangong.edu.cn" target="_blank" title="Email"><i class="bi bi-envelope-fill"></i></a>
-        <a href="#" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
-        <a href="https://github.com/messizhh" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
-        <a href="/files/my_cv.pdf" target="_blank" title="个人简历 (CV)"><i class="bi bi-file-person-fill"></i></a>
-      </div>
-    </div>
-  
-    <div class="card glass-card hitokoto-card">
-      <p id="hitokoto-text">“正在加载一言……”</p>
-      <p class="from" id="hitokoto-from">-「 来源 」</p>
-    </div>
-  
-  </div> <div class="g-col-12 g-col-md-7 right-column">
-    
-    <div class="card glass-card time-weather-card">
-      <div class="time-section">
-        <div class="date-display" id="live-date">
-          --
-        </div>
-        <div class="time-display" id="live-time">
-          --:--:--
-        </div>
-      </div>
-      <div class="weather-section">
-         <i class="bi bi-geo-alt-fill"></i> 天津市 (占位符)
-      </div>
-    </div>
-  
-    <div class="card glass-card links-card">
-      <div class="card-title">
-        <i class="bi bi-link-45deg"></i> 学术导航
-      </div>
-      <div class="links-grid">
-        <a href="/research.qmd" class="link-item glass-card-hover">
-          <i class="bi bi-binoculars-fill"></i> 我的研究
-        </a>
-        <a href="/publications.qmd" class="link-item glass-card-hover">
-          <i class="bi bi-book-fill"></i> 我的出版物
-        </a>
-         <a href="/about.qmd" class="link-item glass-card-hover">
-          <i class="bi bi-person-fill"></i> 关于我
-        </a>
-        <a href="https://blog.imsyy.top/" target="_blank" class="link-item glass-card-hover">
-          <i class="bi bi-journal-richtext"></i> 博客 (示例)
-        </a>
-        <a href="#" target="_blank" class="link-item glass-card-hover">
-          <i class="bi bi-cloud-fill"></i> 网盘 (示例)
-        </a>
-        <a href="#" target="_blank" class="link-item glass-card-hover">
-          <i class="bi bi-disc-fill"></i> 音乐 (示例)
-        </a>
-      </div>
-    </div>
-  
-  </div> </div> <script src="scripts.js"></script>
+<div class="g-col-12 g-col-md-5 left-column">
+<div class="card glass-card message-card">
+<div class="logo-section">
+<img src="profile.jpg" alt="头像" class="profile-img"/>
+<div class="name-section">
+<span class="name-main">gh zuo</span>
+<span class="name-subtitle">天津工业大学</span>
+</div>
+</div>
+<div class="description-section">
+<p>研究方向：计算机视觉、深度学习、机器学习</p>
+<p>目前重点：连续手语识别与翻译</p>
+</div>
+<div class="social-links">
+<a href="mailto:2311640319@tiangong.edu.cn" target="_blank" title="Email"><i class="bi bi-envelope-fill"></i></a>
+<a href="#" target="_blank" title="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<a href="https://github.com/messizhh" target="_blank" title="GitHub"><i class="bi bi-github"></i></a>
+<a href="/files/my_cv.pdf" target="_blank" title="个人简历 (CV)"><i class="bi bi-file-person-fill"></i></a>
+</div>
+</div>
+<div class="card glass-card hitokoto-card">
+<p id="hitokoto-text">“正在加载一言……”</p>
+<p class="from" id="hitokoto-from">-「 来源 」</p>
+</div>
+</div>
+<div class="g-col-12 g-col-md-7 right-column">
+<div class="card glass-card time-weather-card">
+<div class="time-section">
+<div class="date-display" id="live-date">--</div>
+<div class="time-display" id="live-time">--:--:--</div>
+</div>
+<div class="weather-section">
+<i class="bi bi-geo-alt-fill"></i> 天津市 (占位符)
+</div>
+</div>
+<div class="card glass-card links-card">
+<div class="card-title">
+<i class="bi bi-link-45deg"></i> 学术导航
+</div>
+<div class="links-grid">
+<a href="/research.qmd" class="link-item glass-card-hover">
+<i class="bi bi-binoculars-fill"></i> 我的研究
+</a>
+<a href="/publications.qmd" class="link-item glass-card-hover">
+<i class="bi bi-book-fill"></i> 我的出版物
+</a>
+<a href="/about.qmd" class="link-item glass-card-hover">
+<i class="bi bi-person-fill"></i> 关于我
+</a>
+<a href="https://blog.imsyy.top/" target="_blank" class="link-item glass-card-hover">
+<i class="bi bi-journal-richtext"></i> 博客 (示例)
+</a>
+<a href="#" target="_blank" class="link-item glass-card-hover">
+<i class="bi bi-cloud-fill"></i> 网盘 (示例)
+</a>
+<a href="#" target="_blank" class="link-item glass-card-hover">
+<i class="bi bi-disc-fill"></i> 音乐 (示例)
+</a>
+</div>
+</div>
+</div>
+</div>
+<script src="scripts.js"></script>
