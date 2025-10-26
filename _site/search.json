@@ -1,10 +1,31 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "研究 (Research)",
+    "section": "",
+    "text": "我的研究兴趣主要集中在计算机视觉和深度学习，特别是：\n\n连续手语识别 (CSLR)\n\n探索如何构建更高效的…\n\n连续手语翻译 (CSLT)\n\n研究…\n\n\n\n\n\n\n\n(这里写你的项目介绍)"
+  },
+  {
+    "objectID": "research.html#研究方向",
+    "href": "research.html#研究方向",
+    "title": "研究 (Research)",
+    "section": "",
+    "text": "我的研究兴趣主要集中在计算机视觉和深度学习，特别是：\n\n连续手语识别 (CSLR)\n\n探索如何构建更高效的…\n\n连续手语翻译 (CSLT)\n\n研究…"
+  },
+  {
+    "objectID": "research.html#在研项目",
+    "href": "research.html#在研项目",
+    "title": "研究 (Research)",
+    "section": "",
+    "text": "(这里写你的项目介绍)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "欢迎 (Welcome)",
+    "title": "个人主页",
     "section": "",
-    "text": "你好！我是 gh zuo\n欢迎来到我的个人学术主页。\n我目前是天津工业大学的本科生，我的研究兴趣是计算机视觉和深度学习，特别是它们在连续手语识别与翻译中的应用。\n\n\n\n最新动态 (News)\n\n[2025年10月] 占位符：我们的论文 “论文标题” 被 [会议/期刊] 接收！ (将来你可以在这里添加)\n[2025年8月] 占位符：我将在 [某个会议] 上展示我们的最新研究。"
+    "text": "&lt;div class=\"card glass-card message-card\"&gt;\n  &lt;div class=\"logo-section\"&gt;\n    &lt;img src=\"profile.jpg\" alt=\"头像\" class=\"profile-img\"/&gt;\n    &lt;div class=\"name-section\"&gt;\n      &lt;span class=\"name-main\"&gt;gh zuo&lt;/span&gt;\n      &lt;span class=\"name-subtitle\"&gt;天津工业大学&lt;/span&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n  &lt;div class=\"description-section\"&gt;\n    &lt;p&gt;研究方向：计算机视觉、深度学习、机器学习&lt;/p&gt;\n    &lt;p&gt;目前重点：连续手语识别与翻译&lt;/p&gt;\n  &lt;/div&gt;\n  &lt;div class=\"social-links\"&gt;\n    &lt;a href=\"mailto:2311640319@tiangong.edu.cn\" target=\"_blank\" title=\"Email\"&gt;&lt;i class=\"bi bi-envelope-fill\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"#\" target=\"_blank\" title=\"Google Scholar\"&gt;&lt;i class=\"bi bi-mortarboard-fill\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"https://github.com/messizhh\" target=\"_blank\" title=\"GitHub\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n    &lt;a href=\"/files/my_cv.pdf\" target=\"_blank\" title=\"个人简历 (CV)\"&gt;&lt;i class=\"bi bi-file-person-fill\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=\"card glass-card hitokoto-card\"&gt;\n  &lt;p id=\"hitokoto-text\"&gt;“正在加载一言……”&lt;/p&gt;\n  &lt;p class=\"from\" id=\"hitokoto-from\"&gt;-「 来源 」&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card glass-card time-weather-card\"&gt;\n  &lt;div class=\"time-section\"&gt;\n    &lt;div class=\"date-display\" id=\"live-date\"&gt;\n      --\n    &lt;/div&gt;\n    &lt;div class=\"time-display\" id=\"live-time\"&gt;\n      --:--:--\n    &lt;/div&gt;\n  &lt;/div&gt;\n  &lt;div class=\"weather-section\"&gt;\n     &lt;i class=\"bi bi-geo-alt-fill\"&gt;&lt;/i&gt; 天津市 (占位符)\n  &lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div class=\"card glass-card links-card\"&gt;\n  &lt;div class=\"card-title\"&gt;\n    &lt;i class=\"bi bi-link-45deg\"&gt;&lt;/i&gt; 学术导航\n  &lt;/div&gt;\n  &lt;div class=\"links-grid\"&gt;\n    &lt;a href=\"/research.qmd\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-binoculars-fill\"&gt;&lt;/i&gt; 我的研究\n    &lt;/a&gt;\n    &lt;a href=\"/publications.qmd\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-book-fill\"&gt;&lt;/i&gt; 我的出版物\n    &lt;/a&gt;\n     &lt;a href=\"/about.qmd\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-person-fill\"&gt;&lt;/i&gt; 关于我\n    &lt;/a&gt;\n    &lt;a href=\"https://blog.imsyy.top/\" target=\"_blank\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-journal-richtext\"&gt;&lt;/i&gt; 博客 (示例)\n    &lt;/a&gt;\n    &lt;a href=\"#\" target=\"_blank\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-cloud-fill\"&gt;&lt;/i&gt; 网盘 (示例)\n    &lt;/a&gt;\n    &lt;a href=\"#\" target=\"_blank\" class=\"link-item glass-card-hover\"&gt;\n      &lt;i class=\"bi bi-disc-fill\"&gt;&lt;/i&gt; 音乐 (示例)\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "about.html",
@@ -19,5 +40,26 @@
     "title": "关于我 (About Me)",
     "section": "",
     "text": "你好！我是左同学 (gh zuo)，天津工业大学的一名本科生。\n我的研究兴趣包括计算机视觉、深度学习和机器学习。\n目前，我重点关注的研究方向是连续手语识别 (Continuous Sign Language Recognition) 和连续手语翻译 (Continuous Sign Language Translation)。\n\n\n\n学士学位 (本科在读)\n\n天津工业大学, 20XX - 至今"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "出版物 (Publications)",
+    "section": "",
+    "text": "(目前还是一名本科生，正在努力产出第一篇论文！)\n\n\n\n(暂无)\n\n\n\n\n\n(暂无)"
+  },
+  {
+    "objectID": "publications.html#会议论文",
+    "href": "publications.html#会议论文",
+    "title": "出版物 (Publications)",
+    "section": "",
+    "text": "(暂无)"
+  },
+  {
+    "objectID": "publications.html#期刊论文",
+    "href": "publications.html#期刊论文",
+    "title": "出版物 (Publications)",
+    "section": "",
+    "text": "(暂无)"
   }
 ]

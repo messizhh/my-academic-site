@@ -1,6 +1,6 @@
 ---
 title: "关于我 (About Me)"
-image: "profile.jpg" # 头像文件，请确保你放了一张照片到根目录
+image: "profile.jpg"
 about:
   template: jolla
   links:
@@ -9,14 +9,16 @@ about:
       href: "mailto:2311640319@tiangong.edu.cn"
     - icon: mortarboard-fill
       text: Google Scholar
-      href: "#" # 记得将来替换成你的 Google Scholar 链接
+      href: "#"
     - icon: github
       text: GitHub
       href: "https://github.com/messizhh"
     - icon: file-person-fill
       text: 个人简历 (CV)
-      href: "/files/my_cv.pdf" # CV 文件，请确保你创建了 files 文件夹并放入了 pdf
+      href: "/files/my_cv.pdf"
 ---
+
+::: {.page-wrapper}
 
 ## gh zuo
 
@@ -30,3 +32,5 @@ about:
 
 * **学士学位 (本科在读)**
     * 天津工业大学, 20XX - 至今
+
+:::

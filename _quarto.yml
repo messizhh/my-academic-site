@@ -3,10 +3,9 @@ project:
   output-dir: _site
 
 website:
-  title: "gh zuo" # 你的名字
+  title: "gh zuo"
   description: "天津工业大学本科生"
   
-  # 顶部导航栏
   navbar:
     left:
       - href: index.qmd
@@ -18,30 +17,27 @@ website:
       - href: about.qmd
         text: 关于我 (About)
     
-    # 右侧图标链接
     right:
       - icon: envelope-fill
         href: "mailto:2311640319@tiangong.edu.cn"
         aria-label: Email
       - icon: mortarboard-fill
-        href: "#"  # 记得将来替换成你的 Google Scholar 链接
+        href: "#" 
         aria-label: Google Scholar
       - icon: github
-        href: "https://github.com/messizhh" # 你的 GitHub 链接
+        href: "https://github.com/messizhh"
         aria-label: GitHub
   
-  # 页面页脚
   page-footer:
-    left: "© 2025, gh zuo. "
+    left: "© 2025, gh zuo."
+    center: "由 Quarto 驱动"
     right:
-      - text: "使用 Quarto 搭建"
-        href: "https://quarto.org/"
+      - icon: github
+        href: "https://github.com/messizhh"
 
-# 格式与主题
 format:
   html:
     theme:
-      light: litera  # 浅色模式
-      dark: darkly   # 深色模式
-    css: styles.css  # 引入我们的自定义美化文件
-    toc: true # 为页面添加目录
+      light: cosmo 
+      dark: darkly
+    css: styles.css
